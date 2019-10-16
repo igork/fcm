@@ -78,6 +78,18 @@
 
         android:text="@string/log_token" />
 
+    <Button
+
+        android:id="@+id/sendMessage"
+
+        android:layout_width="@dimen/standard_field_width"
+
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center_horizontal"
+
+        android:text="Send Message" />
+
 
 
 </LinearLayout>
